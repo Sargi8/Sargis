@@ -1,9 +1,3 @@
 main () {
 
-	printf("Hello WOrld ")
-}
-вц
-вфц
-вфц
-вфц
-фвф
+	prdsdsdsdsds
